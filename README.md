@@ -1,4 +1,4 @@
-## Olá :wave:, Bem vind@!
+# Olá :wave:, Bem vind@!
 
 Me chamo **Gustavo Soatto**. Sou do interior de São Paulo e estou cursando Ciências da Computação. 🏫
 
